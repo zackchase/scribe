@@ -1,0 +1,14 @@
+
+Bars between $$?
+$$      $$
+
+
+Store meter only when it changes or separately on each beat?
+
+
+$4/4$               $$ ?
+
+$3/4$               $$
+
+How to represent notes and rests? 
+Parser can check that add up to bar length. 
